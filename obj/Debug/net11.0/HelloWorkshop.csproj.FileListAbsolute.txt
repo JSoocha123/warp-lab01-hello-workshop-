@@ -1,0 +1,16 @@
+C:\Users\Jakub\HelloWorkshop\bin\Debug\net11.0\HelloWorkshop.exe
+C:\Users\Jakub\HelloWorkshop\bin\Debug\net11.0\HelloWorkshop.deps.json
+C:\Users\Jakub\HelloWorkshop\bin\Debug\net11.0\HelloWorkshop.runtimeconfig.json
+C:\Users\Jakub\HelloWorkshop\bin\Debug\net11.0\HelloWorkshop.runtimeconfig.dev.json
+C:\Users\Jakub\HelloWorkshop\bin\Debug\net11.0\HelloWorkshop.dll
+C:\Users\Jakub\HelloWorkshop\bin\Debug\net11.0\HelloWorkshop.pdb
+C:\Users\Jakub\HelloWorkshop\obj\Debug\net11.0\HelloWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\HelloWorkshop\obj\Debug\net11.0\HelloWorkshop.AssemblyInfoInputs.cache
+C:\Users\Jakub\HelloWorkshop\obj\Debug\net11.0\HelloWorkshop.AssemblyInfo.cs
+C:\Users\Jakub\HelloWorkshop\obj\Debug\net11.0\HelloWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\HelloWorkshop\obj\Debug\net11.0\HelloWorkshop.dll
+C:\Users\Jakub\HelloWorkshop\obj\Debug\net11.0\refint\HelloWorkshop.dll
+C:\Users\Jakub\HelloWorkshop\obj\Debug\net11.0\HelloWorkshop.pdb
+C:\Users\Jakub\HelloWorkshop\obj\Debug\net11.0\HelloWorkshop.genruntimeconfig.cache
+C:\Users\Jakub\HelloWorkshop\obj\Debug\net11.0\ref\HelloWorkshop.dll
+C:\Users\Jakub\HelloWorkshop\obj\Debug\net11.0\HelloWor.09036EE5.Up2Date

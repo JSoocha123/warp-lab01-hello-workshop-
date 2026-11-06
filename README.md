@@ -6,5 +6,8 @@ Aplikacja konsolowa .NET stworzenia podczas laboratorium.
 \`\`\`bash
 dotnet run
 \`\`\`
+
+## kontakt 
+Autor: Student
 ## Kontakt
 Zespół: Warsztat Programisty

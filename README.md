@@ -9,3 +9,5 @@ dotnet run
 
 ## kontakt 
 Autor: Student
+## Kontakt
+Zespół: Warsztat Programisty
